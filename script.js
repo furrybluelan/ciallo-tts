@@ -7,6 +7,7 @@ let isGenerating = false;
 const API_CONFIG = {
     'workers-api': {
         url: 'https://ttsapi.frbl.us.kg/tts'，
+        authToken: 'Lan@io52io'
     },
     'deno-api': {
         url: 'https://deno-tts.api.zwei.de.eu.org/tts'
